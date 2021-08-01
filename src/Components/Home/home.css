@@ -1,0 +1,8 @@
+.homePage {
+  display: flex;
+  justify-content: center;
+}
+.cardImage {
+  height: 100px;
+  width: 100px;
+}
